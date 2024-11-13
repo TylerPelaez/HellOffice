@@ -1,0 +1,51 @@
+{
+    "name": "Input",
+    "maps": [
+        {
+            "name": "PhoneGame",
+            "id": "767cec62-e35e-42d7-822a-cf3e5dbc12de",
+            "actions": [
+                {
+                    "name": "Click",
+                    "type": "Button",
+                    "id": "2fe27994-03b3-4833-a3b8-d7e650da8933",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "d447c5bc-f650-4769-ac85-95249d314375",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "KBM",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": [
+        {
+            "name": "KBM",
+            "bindingGroup": "KBM",
+            "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                },
+                {
+                    "devicePath": "<Mouse>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
