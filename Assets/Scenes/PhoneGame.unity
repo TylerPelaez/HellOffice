@@ -2564,7 +2564,7 @@ MonoBehaviour:
     m_ActionId: 2fe27994-03b3-4833-a3b8-d7e650da8933
     m_ActionName: Click/Click[/Mouse/leftButton]
   m_NeverAutoSwitchControlSchemes: 0
-  m_DefaultControlScheme: 
+  m_DefaultControlScheme: KBM
   m_DefaultActionMap: PhoneGame
   m_SplitScreenIndex: -1
   m_Camera: {fileID: 1070245415}
