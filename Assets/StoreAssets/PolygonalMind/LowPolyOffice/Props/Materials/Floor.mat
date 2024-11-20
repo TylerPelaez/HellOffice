@@ -152,7 +152,7 @@ Material:
     - _outline_width: 0.2
     m_Colors:
     - _BaseColor: {r: 0.31617644, g: 0.31617644, b: 0.31617644, a: 0.378}
-    - _Color: {r: 0.3161764, g: 0.3161764, b: 0.3161764, a: 0.378}
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _HColor: {r: 0.88235295, g: 0.44766438, b: 0.44766438, a: 1}
     - _SColor: {r: 0.195, g: 0.195, b: 0.195, a: 0.13725491}
@@ -160,7 +160,7 @@ Material:
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
     - _outline_color: {r: 0.5, g: 0.5, b: 0.5, a: 1}
   m_BuildTextureStacks: []
---- !u!114 &2226717068427632695
+--- !u!114 &8637474688789166049
 MonoBehaviour:
   m_ObjectHideFlags: 11
   m_CorrespondingSourceObject: {fileID: 0}
